@@ -1,0 +1,61 @@
+2020-10-21 21:40:47 INFO  TestBase:125 - [Ljava.lang.StackTraceElement;@1ba9117e
+2020-10-21 21:40:48 INFO  TestBase:125 - [Ljava.lang.StackTraceElement;@46b61c56
+2020-10-21 21:42:39 INFO  Browser:33 - ************Chrome browser launched*****************
+2020-10-21 21:42:39 INFO  TestBase:133 - Browser set to :Chrome
+2020-10-21 21:42:39 INFO  WaitHelper:31 - Implicit wait has been set to :60
+2020-10-21 21:42:39 INFO  WaitHelper:91 - waiting for page loading for :60
+2020-10-21 21:42:39 INFO  WaitHelper:93 - page loaded in :60
+2020-10-21 21:42:52 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-10-21 21:42:52 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //a[@class='login']]--60seconds
+2020-10-21 21:42:52 INFO  LoginPage:70 - clicked on sign in link...
+2020-10-21 21:42:56 INFO  LoginPage:76 - entering email address....user123@test.com
+2020-10-21 21:42:56 INFO  LoginPage:82 - entering password....test123
+2020-10-21 21:42:56 INFO  LoginPage:88 - clicking on submit button...
+2020-10-21 21:42:56 INFO  JSExecutorHelper:18 - JavaScriptHelper has been initialised
+2020-10-21 21:42:59 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]--60seconds
+2020-10-21 21:42:59 INFO  VerificationHelper:26 - Element displayed
+2020-10-21 21:42:59 INFO  VerificationHelper:49 - element is displayed with text:Welcome to your account. Here you can manage all of your personal information and orders.
+2020-10-21 21:43:02 INFO  LoginPage:142 - clicked on logout link
+2020-10-21 21:43:02 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //a[@class='login']]--60seconds
+2020-10-21 21:43:03 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-10-21 21:43:03 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //a[@class='login']]--60seconds
+2020-10-21 21:43:03 INFO  LoginPage:70 - clicked on sign in link...
+2020-10-21 21:43:07 INFO  LoginPage:76 - entering email address....user123@test.com
+2020-10-21 21:43:07 INFO  LoginPage:82 - entering password....test123
+2020-10-21 21:43:07 INFO  LoginPage:88 - clicking on submit button...
+2020-10-21 21:43:07 INFO  JSExecutorHelper:18 - JavaScriptHelper has been initialised
+2020-10-21 21:43:12 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a]--60seconds
+2020-10-21 21:43:12 INFO  VerificationHelper:26 - Element displayed
+2020-10-21 21:43:12 INFO  VerificationHelper:49 - element is displayed with text:Welcome to your account. Here you can manage all of your personal information and orders.
+2020-10-21 21:43:15 INFO  LoginPage:142 - clicked on logout link
+2020-10-21 21:43:15 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (dd1e61ea60316d05eb156298f9176f50)] -> xpath: //a[@class='login']]--60seconds
+2020-10-21 21:43:15 INFO  TestBase:72 - **************testLoginToApplicationStarted***************
+2020-10-21 21:43:18 INFO  Browser:33 - ************Chrome browser launched*****************
+2020-10-21 21:43:18 INFO  TestBase:133 - Browser set to :Chrome
+2020-10-21 21:43:18 INFO  WaitHelper:31 - Implicit wait has been set to :60
+2020-10-21 21:43:18 INFO  WaitHelper:91 - waiting for page loading for :60
+2020-10-21 21:43:18 INFO  WaitHelper:93 - page loaded in :60
+2020-10-21 21:43:28 INFO  TestBase:72 - **************testApplicationRegistrationStarted***************
+2020-10-21 21:43:28 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (5810b7beb443de3eb5c86a18e66a5809)] -> xpath: //a[@class='login']]--60seconds
+2020-10-21 21:43:28 INFO  LoginPage:70 - clicked on sign in link...
+2020-10-21 21:43:30 INFO  LoginPage:124 - entering registration email..1603296810371@gmail.com
+2020-10-21 21:43:34 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (5810b7beb443de3eb5c86a18e66a5809)] -> xpath: //*[@id='id_gender1']]--60seconds
+2020-10-21 21:43:34 INFO  RegistrationPage:110 - selecting mr checkbox..
+2020-10-21 21:43:34 INFO  RegistrationPage:122 - entering firstName..firstName
+2020-10-21 21:43:34 INFO  RegistrationPage:128 - entering lastname..lastname
+2020-10-21 21:43:34 INFO  RegistrationPage:140 - entering password..password
+2020-10-21 21:43:34 INFO  RegistrationPage:208 - entering address..address
+2020-10-21 21:43:35 INFO  RegistrationPage:190 - entering yourAddressFirstName..yourAddressFirstName
+2020-10-21 21:43:35 INFO  RegistrationPage:196 - entering yourAddressLastName..yourAddressLastName
+2020-10-21 21:43:36 INFO  RegistrationPage:202 - entering yourAddressCompany..yourAddressCompany
+2020-10-21 21:43:36 INFO  RegistrationPage:220 - entering yourAddressCity..yourAddressCity
+2020-10-21 21:43:36 INFO  RegistrationPage:226 - entering yourAddressState..Alaska
+2020-10-21 21:43:36 INFO  AlertHelper:26 - selectUsingValue and value is:Alaska
+2020-10-21 21:43:36 INFO  RegistrationPage:233 - entering yourAddressPostCode..99501
+2020-10-21 21:43:36 INFO  RegistrationPage:251 - entering mobilePhone..1111111111
+2020-10-21 21:43:36 INFO  RegistrationPage:257 - entering addressAlias..addressAlias
+2020-10-21 21:43:36 INFO  RegistrationPage:263 - clicked on registration..Register
+2020-10-21 21:43:41 INFO  VerificationHelper:26 - Element displayed
+2020-10-21 21:43:41 INFO  VerificationHelper:49 - element is displayed with text:Welcome to your account. Here you can manage all of your personal information and orders.
+2020-10-21 21:43:45 INFO  LoginPage:142 - clicked on logout link
+2020-10-21 21:43:45 INFO  WaitHelper:98 - waiting for :[[ChromeDriver: chrome on WINDOWS (5810b7beb443de3eb5c86a18e66a5809)] -> xpath: //a[@class='login']]--60seconds
