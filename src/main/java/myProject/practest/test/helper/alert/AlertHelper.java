@@ -1,5 +1,10 @@
 package myProject.practest.test.helper.alert;
-
+/**
+ *
+ *  @author srikanth
+ *  @parameter driver
+ */
+ 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.NoAlertPresentException;
